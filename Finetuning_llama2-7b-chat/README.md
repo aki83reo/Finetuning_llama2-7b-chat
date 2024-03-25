@@ -1,14 +1,10 @@
 # Fine-Tuning Models with Gradient.ai
 
 This repository allows you to fine-tune three models from Gradient.ai using just a few lines of code. The models available for fine-tuning are:
-
+ 
 1. LLAMA 2 7B Chat Model
 2. Bloom 560 Model
-<<<<<<< HEAD
 3. Nous-Hermas Model  
-=======
-3. Nous-Hermas Model
->>>>>>> 5086dcdb000b417cddb3bb45281bf2ceb428ed33
 
 ## Getting Started
 
